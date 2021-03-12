@@ -10,8 +10,6 @@ Pull requests are rejected as of now because the repository is private for now. 
 If you have any ideas for improvement, please let me know! :) 
 
 ## License
-MIT License
-
 Copyright (c) 2021 Leon Niederprüm
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
